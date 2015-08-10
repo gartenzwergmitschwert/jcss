@@ -1,0 +1,71 @@
+body {
+}
+
+.ghx-issue {
+  margin-bottom: 10px;
+}
+
+.ghx-column {
+  background: #fff none repeat scroll 0 0 !important;
+  border-bottom: 5px solid #fff !important;
+  padding: 10px !important;
+  margin-bottom: 0 !important;
+  margin-top: -30px !important;
+  padding-top: 30px !important;
+}
+
+.ghx-column > h2 {
+  font-weight: bold;
+  text-align: center !import;
+}
+
+.ghx-column-headers h2 {
+  display: block;
+}
+
+#ghx-pool {
+  background-color: #0a1354;
+}
+
+.ghx-summary {
+  font-weight: bold;
+}
+
+.ghx-swimlane {
+  border-top: 5px solid #0a1354;
+}
+
+.ghx-first {
+  border-top: none;
+}
+
+.ghx-swimlane-header {
+  background-color: rgba(255,255,255,0.7);
+}
+
+#ghx-column-header-group.ghx-fixed {
+    background: #0a1354 !important;
+}
+
+#ghx-column-header-group {
+  border-top: 20px solid #0a1354;
+  background-color: #0a1354 !important;
+  border-bottom: 5px solid #0a1354;
+}
+
+.ghx-swimlane-header::after {
+    background-color: transparent !important;
+    box-shadow: none;	
+}
+
+.ghx-grabber {
+  width: 10px;
+}
+
+#js-swimlane-header-stalker {
+  display: none !important;
+}
+
+#ghx-column-headers {
+  padding-top: 0px;
+}
